@@ -10,5 +10,5 @@
     <string name="RadioButton">按钮</string>
     <string name="CheckBox">选项框</string>
     <string name="Enable">打开</string>
-
+    <string name="ButtonText1">开始交谈</string>
 </resources>
