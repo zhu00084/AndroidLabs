@@ -46,4 +46,14 @@
         android:layout_centerVertical="true"
         android:layout_alignStart="@+id/button3"
         android:layout_marginStart="7dp" />
+
+    <Button
+        android:text="@string/ButtonToolbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnTest"
+        android:layout_below="@+id/btnWeather"
+        android:layout_alignStart="@+id/btnWeather"
+        android:layout_marginTop="14dp" />
+
 </RelativeLayout>

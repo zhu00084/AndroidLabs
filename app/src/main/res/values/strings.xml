@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AndroidLabs</string>
+    <string name="hello_message">Hello World!</string>
+    <string name="ButtonText">I\'m a button</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="LoginText">Login</string>
+    <string name="UserName">login name</string>
+    <string name="Password">Password</string>
+    <string name="RadioButton">RadioButton</string>
+    <string name="CheckBox">CheckBox</string>
+    <string name="Enable">Enable Something</string>
+    <string name="dialog_message">Do you want to close the listitem activity?</string>
+    <string name="dialog_title">Confirm Close Activity</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="ButtonText1">Start Chat</string>
+    <string name="title_activity_weather_forecast">WeatherForecast</string>
+    <string name="ButtonWeather">Weather Forecast</string>
+    <string name="ButtonToolbar">Test Toolbar</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_test_toolbar">TestToolbar</string>
+    <string name="title_activity_test_toolbar_ed">TestToolbarEd</string>
+
+</resources>
